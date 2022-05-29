@@ -1,0 +1,9 @@
+google-cloud-pubsub==1.0.2
+google-cloud-storage==1.29.0
+google-api-python-client==2.10.0
+oauth2client==4.1.3
+pandas==0.25.3
+numpy==1.18.5
+requests==2.25.1
+facebook-business==11.0.0
+facebookads==2.11.4

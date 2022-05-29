@@ -1,0 +1,6 @@
+# Function dependencies, for example:
+# package>=version
+simple-salesforce==1.0.0
+pytz==2019.3
+pandas==1.0.3
+pandas-gbq==0.13.1
